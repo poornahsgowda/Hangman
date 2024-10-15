@@ -14,7 +14,7 @@ Hangman is a classic word-guessing game where the player tries to discover a hid
 ### How to Play:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hangman-game-python.git
+   git clone https://github.com/poornahsgowda/hangman.git
    ```
 2. Run the game:
    ```bash
